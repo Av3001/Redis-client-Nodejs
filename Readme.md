@@ -1,6 +1,7 @@
 # Project Setup
   - git clone https://github.com/Av3001/Redis-client-Nodejs
   - cd src
+  - npm i
   - tsc -b
 ### Spinup docker daemon & run the following commands
   - docker pull redis
